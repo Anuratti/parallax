@@ -343,4 +343,11 @@ figure{
 	margin-bottom: 20px;	
 }
 
+.info img{
+	max-width:250px;
+	height:250px;
+	margin-left:5px;
+	border: 3px solid #181818;
+}
+
 }
