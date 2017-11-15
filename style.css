@@ -289,10 +289,16 @@ input[type=submit]:hover {
 
 .info{
 	grid-column: 1 / 2;
+	justify-self: center;
 }
 
 .socials{
 	grid-column: 1 / 2;
+	justify-self: center;
+}
+
+.msg{
+     justify-self: center;
 }
 
 label{
